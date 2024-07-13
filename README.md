@@ -28,3 +28,5 @@ To run the project in your local environment, follow these steps:
 4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
 
 ## 🎥 Video
+
+<video src="/public/boardingg.mp4" width=180 />
