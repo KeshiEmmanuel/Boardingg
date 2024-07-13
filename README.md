@@ -1,30 +1,30 @@
-# React + TypeScript + Vite
+# Boardingg - Kanban Board for Drag and Drop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>Boarding is a simple Kanban board that allows you drag and drop tasks between columns. it was built using: </p>
 
-Currently, two official plugins are available:
+## 🕹 Technologies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+`React`
+`DND kit`
+`Typescript`
+`Tailwind CSS`
+`Heroicons (for Icons)`
 
-## Expanding the ESLint configuration
+## 🎁 Features
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- Drag and drop Columns
+- Delete tasks and columns
+- Edit column names and task names
+- Drag and drop tasks between columns
+- Add containers and items (both are draggable).
 
-- Configure the top-level `parserOptions` property like this:
+## 🚦 Running the Project
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+To run the project in your local environment, follow these steps:
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+1. Clone the repository to your local machine.
+2. Run `npm install` or `yarn` in the project directory to install the required dependencies.
+3. Run `npm run start` or `yarn start` to get the project started.
+4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
+
+## 🎥 Video
