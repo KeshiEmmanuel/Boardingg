@@ -1,3 +1,8 @@
+
+
+
+
+
 # Boardingg - Kanban Board for Drag and Drop
 
 <p>Boarding is a simple Kanban board that allows you drag and drop tasks between columns. it was built using: </p>
@@ -28,5 +33,4 @@ To run the project in your local environment, follow these steps:
 4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
 
 ## 🎥 Video
-
-<video src="/public/boardingg.mp4" width=180 />
+https://github.com/user-attachments/assets/0963b142-8c72-4ee2-8912-3a00a4394cee
